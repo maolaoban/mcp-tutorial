@@ -1,8 +1,8 @@
-# 使用VS Code中的Cline插件
+## 使用VS Code中的Cline插件
 
-## Installed -> Configure MCP Server
+- Installed -> Configure MCP Server
 
-## 打包后的文件路径
+## 设置cline_mcp_settings.json
 
 ``` json
 {
